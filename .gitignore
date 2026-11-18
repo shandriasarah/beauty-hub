@@ -1,0 +1,9 @@
+node_modules/
+__MACOSX/
+.DS_Store
+._*
+.env
+.env.*
+*.log
+.vscode/
+.idea/
